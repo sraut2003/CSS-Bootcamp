@@ -1,0 +1,130 @@
+/* task 2b-1 css */
+
+.card1{
+    width: 40%;
+    height: 300px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    margin: 20px auto;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.bg{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.title{
+    color: white;
+    position: absolute;
+    bottom:120px;
+    left: 50px;
+
+}
+
+.desc{
+    color: white;
+    position: absolute;
+    bottom: 80px;
+    left: 15px;
+    text-align: center;
+
+}
+
+.btn{
+    background-color: white;
+    border: none;
+    position: absolute;
+    border-radius: 25px;
+    padding: 12px 12px;
+    font-weight: bold;
+    bottom: 40px;
+    right: 150px;
+
+}
+
+/* task 2b-2 css */
+
+.card2{
+    width: 65%;
+    height: 250px;
+    margin: 50px auto;
+    position: relative;
+    border: 1px solid lightgray;
+
+}
+
+
+.cover{
+    height: 250px;
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* task 2b-3 css */
+.card3{
+    background-color: rgb(229, 231, 223);
+    width: 35%;
+    height:309px;
+    margin: 10px auto;
+    padding: 4px 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-box{
+    position: relative;
+    border-radius: 10px 10px 0 0;
+    height: 300px;
+    border: 1px solid lightgrey;
+    margin: 10px auto;
+    background-color: white;
+} 
+
+.cover-img{
+    height: 110px;
+    width: 100%;
+    border-radius:10px 10px 0 0;
+}
+
+.profile{
+    border-radius: 100%;
+    position: absolute;
+    width: 120px;
+    height: 120px;
+    right: 32%;
+    top: 50px;
+    border: 2px solid white;
+}
+
+.heading{
+    padding: 2px 85px;
+    margin:80px auto;
+}
+
+.info{
+    color: grey;
+    position: absolute;
+    bottom:18px;
+    padding: 2px 65px;
+}
